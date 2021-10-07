@@ -1,5 +1,5 @@
 ---
-author: Grace Hopper
+author: Anne
 date: 2019-01-01T17:04:44Z
 hero_image: "../static/johannes-andersson-joshua-tree.jpg"
 title: My last Blog Post
